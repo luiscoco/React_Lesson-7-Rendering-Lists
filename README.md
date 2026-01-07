@@ -3,6 +3,10 @@
 Interactive mini-app to practice `.map()`, `.filter()`, and compare key strategies (`id`, `index`, `random`).
 Includes controls to shuffle and remove items so you can observe reconciliation behavior.
 
+## Demo
+
+
+
 ## Features and key ideas
 
 - Filter the list by name or profession using `filter()` and memoization.
