@@ -5,7 +5,7 @@ Includes controls to shuffle and remove items so you can observe reconciliation 
 
 ## Demo
 
-
+<img width="1235" height="930" alt="image" src="https://github.com/user-attachments/assets/40ca32b6-7012-48cc-bfe4-93dfb9c1ed79" />
 
 ## Features and key ideas
 
