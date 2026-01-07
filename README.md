@@ -1,4 +1,4 @@
-# React 19 – Rendering Lists Playground (with Key Strategy Demo)
+# React 19.2 - Lesson 7 - Rendering Lists Playground (with Key Strategy Demo)
 
 Interactive mini-app to practice `.map()`, `.filter()`, and compare key strategies (`id`, `index`, `random`).
 Includes controls to shuffle and remove items so you can observe reconciliation behavior.
